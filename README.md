@@ -18,4 +18,6 @@ Create a Vcard using html and css
 ### Things to add
 Header
 Photo
-background image
+Background image
+Job title
+Linkedin page and button
