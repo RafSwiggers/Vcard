@@ -9,10 +9,10 @@ Create a Vcard using html and css
 
  - Name: Raf Swiggers
  - Address:
-  - Street: Nieuwe Donk 39/3
-  - Postal code: 2100
-  - City: Deurne
-  - Country: Belgium
+   - Street: Nieuwe Donk 39/3
+   - Postal code: 2100
+   - City: Deurne
+   - Country: Belgium
  - Phone number: 0497837000
 
 ### Things to add
