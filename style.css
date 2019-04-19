@@ -2,6 +2,11 @@ body{
   font-size: 14px;
   line-height: 1.428;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #5471FF;
+}
+#header {
+  background-color: #161D42
+  height: 50px;
 }
 p{
   bottom-margin: 10px;
