@@ -1,6 +1,7 @@
 body{
   font-family: 'Fira Sans', sans-serif;
   background-image: url("./background.jpg");
+  background-size: 100%;
 }
 
 .name {
@@ -48,8 +49,9 @@ body{
    left: 100px;
    color: #d3d3d3;
  }
- #logos{
-   height: 50px;
-   width: 50px;
+
+ #logo {
    position: relative;
    left: 100px;
+   color: white;
+ }
