@@ -39,7 +39,7 @@ body{
    height: 125px;
    width: 115px;
    position: relative;
-   top: 75px;
+   top: 125px;
    left: -35px;
    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
    border-radius: 25px;
@@ -58,3 +58,8 @@ body{
    font-size: 30px !important;
    bottom: 50px;
  }
+#intro {
+  position: relative;
+  bottom: 100px;
+  font-weight: bold;
+}
