@@ -9,48 +9,52 @@ body{
 #header {
   background-size:     cover;
   background-repeat:   no-repeat;
-  background-position: center center;
+  background-position: center;
   background-image: url("./background_header.jpg");
+  height: 100px;
   color: white;
   text-align: center;
 }
 
 #picture{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  float:left;
+  padding-top: 10px;
+  padding-right: 10px;
+  height: 200px;
+  width: 200px;
+}
+
+#logos{
+  height: 50px;
+  width: 50px;
+}
 
 }
 #sidenote{
   text-align: center;
   color: #737373;
+  overflow: auto;
+}
 
+#opening {
+  display: inline;
+  overflow: auto;
+  padding-left: 10px;
 }
 
 p{
   bottom-margin: 10px;
 }
-h1 {
-  font-size: 40px;
-}
-h2 {
-  font-size: 32px;
-}
+
 h3 {
   font-size: 28px;
-}
-h4 {
-  font-size: 24px;
-}
-h5 {
-  font-size: 20px;
-}
-h6 {
-  font-size: 16px;
 }
 a{
   color: #5DB6FF;
 }
 code{
   color: #BE63BF;
+}
+.info {
+  color: white;
 }
