@@ -1,23 +1,6 @@
 # Vcard
 
-### Summary
+## Goal and Summary
+Design and create a Vcard, using html and CSS. Doing so, doing so, become familiar with the use and reach of CSS.
 
-Create a Vcard using html and css
-
-
-#### Data
-
- - Name: Raf Swiggers
- - Address:
-   - Street: Nieuwe Donk 39/3
-   - Postal code: 2100
-   - City: Deurne
-   - Country: Belgium
- - Phone number: 0497837000
-
-### Things to add
-Header
-Photo
-Background image
-Job title
-Linkedin page and button
+###[Link to preview](https://rafswiggers.github.io/Vcard/)
